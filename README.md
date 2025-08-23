@@ -60,8 +60,6 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Dev-Shivam-05&theme=radical&margin-w=20&margin-h=20&row=2)
 
-> *If any trophy images are missing, it usually means the related GitHub achievement/stats aren't present yet. Keep committing — trophies will appear!*
-
 ---
 
 ## 🔗 Connect With Me
