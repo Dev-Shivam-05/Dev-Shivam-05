@@ -13,7 +13,7 @@
 
 ## 📈 GitHub Profile Overview
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dev-Shivam-05&color=blueviolet&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=pratham-9029&color=blueviolet&style=flat-square)  
 ![Followers](https://img.shields.io/github/followers/Dev-Shivam-05?style=social)  ![Stars](https://img.shields.io/github/stars/Dev-Shivam-05?style=social)
 
 ---
