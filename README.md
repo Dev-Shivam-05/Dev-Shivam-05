@@ -3,7 +3,7 @@
   - This README is fully self-contained.
   - Optional automation below can auto-regenerate and randomize sections and quotes.
 -->
-
+ 
 # 👋 Hi, I’m **Shivam Bhadoriya**
 
 🎓 **BSc IT Student** | 🌱 Aspiring **Full-Stack Developer**  
