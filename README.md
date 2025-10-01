@@ -1,82 +1,420 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,40&height=250&section=header&text=Shivam%20Bhadoriya&fontSize=65&animation=twinkling&fontAlignY=38&desc=Full‑Stack%20And%20%20MERN+Stack%20Developer&descAlignY=62&font=Fira%20Code&descFont=Roboto&textColor=FF4500&descColor=00FF7F&borderRadius=25" width="100%" alt="Header Banner"/>
+
+<!-- Animated Profile Stats -->
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=gradient&customColorList=0,4,4,8,30&center=true&vCenter=true&multiline=true&width=800&height=100&lines=BSc+IT+Student+%40+VidhyaDeep+University+%F0%9F%8E%93;Frontend+Ninja+%E2%9A%A1+Backend+Explorer+%F0%9F%94%8D;JavaScript+Enthusiast+%F0%9F%92%BB+DSA+Master+%F0%9F%8F%86" alt="Typing SVG" /> </div>
+<!-- 🌟 Sleek & Unique GitHub Profile Stats -->
+<div align="center">
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Dev-Shivam-05&style=flat&color=8A2BE2" alt="Profile Views"/>
+  <p style="margin: 5px 0; color: #8A2BE2; font-weight: bold;">15K+ Profile Views</p>
+
+  <!-- Followers and Stars -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+    <img src="https://img.shields.io/github/followers/Dev-Shivam-05?style=flat&color=1155ba&label=Followers" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/stars/Dev-Shivam-05?style=flat&color=FFD700&label=Stars" alt="GitHub Stars"/>
+  </div>
+
+  <!-- Availability -->
+  <div style="margin-top: 15px;">
+    <img src="https://img.shields.io/badge/Available_for_Hire-00FF00?style=flat&logo=rocket&logoColor=white" alt="Available for Hire"/>
+  </div>
+
+  <!-- Contact -->
+  <div style="margin-top: 10px;">
+    <a href="mailto:shivambhadoriya1605@gmail.com">
+      <img src="https://img.shields.io/badge/📬_Contact_Me-Click_Here-00D9FF?style=flat&logo=gmail&logoColor=white" alt="Email Contact"/>
+    </a>
+  </div>
+
+</div>
+
+
+<!-- ULTIMATE ANIMATED STATS DASHBOARD: Live, Multi-Column with Enhanced APIs -->
+<div align="center">
+  <h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #8A2BE2; margin: 20px 0;">📊 Beast Mode Stats Dashboard</h2>
+  <table style="width:100%; border-collapse: collapse; margin: 20px 0;">
+    <tr>
+      <td align="center" style="padding: 10px; background: linear-gradient(45deg, #8A2BE2, #BA55D3); border-radius: 15px; margin: 5px; box-shadow: 0 0 10px #8A2BE2;">
+        <!-- Profile Views Counter -->
+        <img src="https://komarev.com/ghpvc/?username=Dev-Shivam-05&color=8A2BE2&style=flat-square&label=Profile%20Views" alt="Profile Views" />
+        <br><strong style="color: #00FFFF; font-family: 'Fira Code';">🚀 Live Counter</strong>
+      </td>
+      <td align="center" style="padding: 10px; background: linear-gradient(45deg, #FF1493, #FF69B4); border-radius: 15px; margin: 5px; box-shadow: 0 0 10px #FF1493;">
+        <!-- Followers & Stars -->
+        <img src="https://img.shields.io/github/followers/Dev-Shivam-05?style=flat-square&color=FF1493&label=Followers&logo=person-add" alt="Followers" />
+        <img src="https://img.shields.io/github/stars/Dev-Shivam-05?style=flat-square&color=FF69B4&label=Stars&logo=star" alt="Stars" />
+        <br><strong style="color: #FFD700; font-family: 'Fira Code';">📈 Growth Metrics</strong>
+      </td>
+      <td align="center" style="padding: 10px; background: linear-gradient(45deg, #00FF7F, #32CD32); border-radius: 15px; margin: 5px; box-shadow: 0 0 10px #00FF7F;">
+        <!-- Availability & Hire Me -->
+        <img src="https://img.shields.io/badge/Open%20to%20Work-✅%20YES-00FF7F?style=flat-square&logo=briefcase" alt="Open to Work" />
+        <br>
+        <a href="mailto:shivambhadoriya1605@gmail.com">
+          <img src="https://img.shields.io/badge/Hire%20Me-🚀%20Click%20Here-FF4500?style=flat-square&logo=rocket&logoColor=white" alt="Hire Me" />
+        </a>
+        <br><strong style="color: #000; font-family: 'Fira Code';">💼 Professional Status</strong>
+      </td>
+      <td align="center" style="padding: 10px; background: linear-gradient(45deg, #8A2BE2, #4B0082); border-radius: 15px; margin: 5px; box-shadow: 0 0 10px #8A2BE2;">
+        <!-- Contribution Streak -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Shivam-05&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00FFFF&fire=FF4500&currStreakLabel=8A2BE2&sideLabels=00FF7F&dates=8A2BE2" alt="Streak Stats" />
+        <br><strong style="color: #BA55D3; font-family: 'Fira Code';">🔥 Contribution Streak</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="4" style="padding: 10px;">
+  <!-- ✅ REAL WORKING WAKATIME SVG -->
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=__https_shivu&color=black&theme=dark&hide_border=true" alt="Practice Time."/>
+</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- New readme File  -->
 <!--
+  ██████╗░███████╗░█████╗░██████╗░███████╗██████╗░░██████╗
+  ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝
+  ██████╦╝█████╗░░███████║██████╔╝█████╗░░██████╔╝╚█████╗░
+  ██╔══██╗██╔══╝░░██╔══██║██╔══██╗██╔══╝░░██╔══██╗░╚═══██╗
+  ██████╦╝███████╗██║░░██║██████╔╝███████╗██║░░██║██████╔╝
+  ╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░
+
   Profile README for: Shivam Bhadoriya (Dev-Shivam-05)
-  - This README is fully self-contained.
-  - Optional automation below can auto-regenerate and randomize sections and quotes.
+  Theme: NEON VIOLET (Purple-Blue Gradient)
 -->
- 
-# 👋 Hi, I’m **Shivam Bhadoriya**
 
-🎓 **BSc IT Student** | 🌱 Aspiring **Full-Stack Developer**  
-📍 Surat, India — *Currently focused on Frontend; will move to Backend after a few months of frontend work.*
+<!-- GitHub Account Stats with Animated Background -->
+<h2 align="center">⚡ GitHub Performance Dashboard</h2>
 
----
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Shivam-05&theme=github_dark" alt="Profile Details" />
+</div>
 
-## 📈 GitHub Profile Overview
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dev-Shivam-05&color=blueviolet&style=flat-square)  
-![Followers](https://img.shields.io/github/followers/Dev-Shivam-05?style=social)  ![Stars](https://img.shields.io/github/stars/Dev-Shivam-05?style=social)
-
----
-
-<!-- RANDOMIZED SECTIONS (if you run the generator, this area will change order on each update) -->
-
-## 🔥 About Me
-
-- 🎯 Focused on mastering **Full-Stack Development**  
-- 💻 Specializing in **Responsive UIs, API design & backend logic**  
-- 📚 **Currently:** Frontend (Bootstrap → JavaScript → advanced frontend)  
-- 🔜 **Next:** Backend (Node.js, Express, MongoDB) after frontend foundations are solid  
-- ✨ Fun fact: *I use Illustrator & Canvas for mockups and Photoshop for finishing touches.*
-# 🛠️ Tech Stack
-
-| Languages & Frameworks | Design Tools | Deployment / Others |
-|------------------------|--------------|---------------------|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="height:20px;border-radius:20%;margin:4px" /> |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="height:20px;border-radius:20%;margin:4px" /> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" style="height:20px;border-radius:20%;margin:4px" /> |
-| <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" style="height:20px;border-radius:20%;margin:4px" /> |
-| <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" style="height:20px;border-radius:20%;margin:4px" /> |  |  |
-| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" style="height:20px;border-radius:20%;margin:4px" /> |  |  |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="height:20px;border-radius:20%;margin:4px" /> |  |  |
-| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="height:20px;border-radius:20%;margin:4px" /> |  |  |
-
-### ⚡ **Specialization**
-✔ Mastered **Data Structures & Algorithms (DSA) with C++**
-
-## 📊 GitHub Skill Heatmap
-
-[![Shivam’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Shivam-05&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-# 🗺 Skills Heatmap & GitHub Insights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Shivam-05&show_icons=true&theme=radical&hide_border=true) | ![Skill Heatmap](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Shivam-05&layout=compact&theme=radical&hide_border=true) |
-|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Shivam-05&theme=dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-Shivam-05&theme=dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-Shivam-05&theme=dark" width="32%"/>
+</div>
 
 ---
 
+<!-- Completely Redesigned Education Section -->
+<h2 align="center">🎓 Education & Skills Journey</h2>
 
-## 🏆 Trophies — Bright Showcase
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dev-Shivam-05&theme=radical&margin-w=20&margin-h=20&row=2)
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">📚 Academic Path</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/VidhyaDeep_University-6a11cb?style=for-the-badge&logo=graduationcap&logoColor=white" />
+          <br><br>
+          <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=800&size=36&duration=3700&pause=400&color=gradient&customColorList=0,4,4,8,30&center=true&vCenter=true&width=800&lines=Git;GitHub;Visual+Studio+Code;HTML5;CSS3;JavaScript(ES6);Bootstrap-5;C+language;C++;Python;MySQL;Figma;Photoshop;Adobe-Illustrator;" />
+          <img src="https://skillicons.dev/icons?i=github,git,vscode,html,css,js,bootstrap,c,cpp,python,mysql,figma,ps,ai" />
+          <br><br>
+          <details>
+            <summary><b>🔍 View Detailed Progress</b></summary>
+            <br>            
+              <img src="https://wakatime.com/share/@__https_shivu/1e3ecda4-24d6-47c5-bc37-a11c044df727.svg" alt="WakaTime Stats" style="border-radius: 12px; box-shadow: 0 0 15px #8A2BE2;" />
+              <br><strong style="color: #8A2BE2; font-size: 18px; font-family: 'Fira Code';">⏱️ Coding Activity (Last 7 Days) - Auto-Updates Weekly</strong>
+          </details>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🚀 Skill Proficiency</h3>
+        <div align="center">
+          <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Shivam-05&layout=pie&theme=dark&hide_border=true" />
+          <br>
+          <img src="https://leetcard.jacoblin.cool/Dev-Shivam-05?theme=dark&font=Karma&ext=heatmap" width="400"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🔗 Connect With Me
+<!-- Animated Technology Stack -->
+<h2 align="center">🛠️ Technology Arsenal</h2>
 
-| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Dev-Shivam-05) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-bhadoriya-b82792324/) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivambhadoriya1605@gmail.com) |
-|---|---|---|
-| [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/shivambhadoriya2/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/__https.shivu/#) | [![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=flat&logo=phonepe&logoColor=white)](https://phonepe.com/pay/9106988376@ybl) |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
+        <br><b>JavaScript</b>
+        <br><img src="https://img.shields.io/badge/ES6+-6a11cb?style=flat-square" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="80" height="80" />
+        <br><b>C++</b>
+        <br><img src="https://img.shields.io/badge/DSA-2575fc?style=flat-square" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
+        <br><b>Python</b>
+        <br><img src="https://img.shields.io/badge/3.x-6a11cb?style=flat-square" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
+        <br><b>MySQL</b>
+        <br><img src="https://img.shields.io/badge/Database-2575fc?style=flat-square" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
+        <br><b>React</b>
+        <br><img src="https://img.shields.io/badge/Learning-6a11cb?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
+        <br><b>Docker</b>
+        <br><img src="https://img.shields.io/badge/Future-2575fc?style=flat-square" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="80" height="80" />
+        <br><b>AWS</b>
+        <br><img src="https://img.shields.io/badge/Future-6a11cb?style=flat-square" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
+        <br><b>GitHub</b>
+        <br><img src="https://img.shields.io/badge/Expert-FFD700?style=flat-square" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="80" height="80" />
+        <br><b>REST API</b>
+        <br><img src="https://img.shields.io/badge/Learning-2575fc?style=flat-square" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="80" height="80" />
+        <br><b>Nginx</b>
+        <br><img src="https://img.shields.io/badge/Future-6a11cb?style=flat-square" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## Random Dev Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Enhanced GitHub Analytics -->
+<h2 align="center">📊 Advanced GitHub Analytics</h2>
+
+<div align="center">  
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dev-Shivam-05&show_icons=true&hide_border=true&title_color=7c217a&icon_color=7c217a&bg_color=0d1117&text_color=ffffff&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage" alt="Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Shivam-05&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=8A2387&fire=8A2387&currStreakLabel=8A2387" alt="Streaks" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Dev-Shivam-05&limit=5&combine_all_yearly_contributions=true&hide_border=false&title_color=7c217a&icon_color=7c217a&bg_color=0d1117&text_color=ffffff&border_color=808080&hide_border=true" alt="Top Contributed To Repos" />
+</div>
+
+<div align="center">
+  x
+</div>
+
+<details>
+  <summary><b>📈 Contribution Metrics</b></summary>
+  <br>
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Shivam-05&bg_color=0d1117&color=8A2387&line=2575fc&point=8A2387&area=true&hide_border=true&custom_title=Weekly+Code+Intensity&theme=dark&border_radius=20&line_width=3&area_color=2575fc" />
+</div>
+
+</details>
 
 ---
 
+<!-- GitHub Trophies with ALL Possible Achievements -->
+<h2 align="center">🏆 GitHub Achievement Showcase</h2>
 
-## 🧑‍💻 Treat Me Like a Developer
-**Ship fast, learn more — push code, then soar.**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Shivam-05&theme=radical&margin-w=15&margin-h=15&column=4&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues,Repositories,MultiLanguage,Experience"" alt="Trophies" />
+</div>
+<!-- <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Shivam-05&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&row=2&column=4&title=Stars,Commits,Followers,PullRequest,Issues,Repositories,MultiLanguage,Experience" alt="Trophies" />
+</div> -->
 
-*Last updated: <!-- generated timestamp (automation can update this) -->*
+<div align="center">
+  <h3>🎯 Next Achievements to Unlock</h3>
+  <!-- <p align="center">
+  <img src="https://img.shields.io/badge/Arctic_Code_Vault_Contributor-2025-6a11cb?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/100_Days_Streak-In_Progress-2575fc?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pull_Shark-Coming_Soon-8A2387?style=plastic&logo=github&logoColor=white" />
+</p> -->
+  <img src="https://img.shields.io/badge/Arctic_Code_Vault_Contributor-2025-6a11cb?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/100_Days_Streak-In_Progress-2575fc?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Pull_Shark-Coming_Soon-8A2387?style=for-the-badge&logo=github" />
+</div>
+
+---
+
+<!-- Snake Animation for Contributions -->
+
+<!-- Snake Animation for Contributions -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<!-- Enhanced Connect Section -->
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+
+<div align="center">
+  <a href="https://github.com/Dev-Shivam-05">
+    <img src="https://img.shields.io/badge/GitHub-6a11cb?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shivam-bhadoriya-b82792324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shivambhadoriya1605@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/shivambhadoriya2/">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/__https.shivu/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Schedule_a_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Response_Time-< 24_hours-brightgreen?style=flat-square" />
+</div>
+
+---
+
+<!-- Enhanced Daily Dev Quote -->
+
+## 💬 Daily Dev Quote
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=Fira%20Code&bgColor=#00FFFF&textColor=7B2FF7&authorColor=8B5CF6&borderColor=6a11cb" alt="Dev Quote"/>
+</div>
+---
+
+<!-- Dynamic Coding Challenge -->
+<h2 align="center">🧠 Today's Coding Challenge</h2>
+
+<div align="center">
+  <details>
+    <summary><b>🎯 Click to reveal today's challenge!</b></summary>
+    <br>
+    <div id="daily-challenge">
+      
+```javascript
+// Challenge: Two Sum Problem
+// Date: ${new Date().toLocaleDateString()}
+// Difficulty: Medium
+
+/\*\*
+
+- Given an array of integers nums and an integer target,
+- return indices of the two numbers that add up to target.
+-
+- Example:
+- Input: nums = [2,7,11,15], target = 9
+- Output: [0,1]
+- Explanation: nums[0] + nums[1] == 9
+  \*/
+
+function twoSum(nums, target) {
+// Your solution here
+const map = new Map();
+for (let i = 0; i < nums.length; i++) {
+const complement = target - nums[i];
+if (map.has(complement)) {
+return [map.get(complement), i];
+}
+map.set(nums[i], i);
+}
+return [];
+}
+
+// Test your solution
+console.log(twoSum([2,7,11,15], 9)); // [0,1]
+
+```
+
+  </div>
+  </details>
+</div>
+
+---
+
+<!-- Fixed Visitor Map -->
+<h2 align="center">🌎 Global Visitor Map</h2>
+<p align="center">
+  <img src="https://www.revolvermaps.com/widget/0/0/2/0/ff0000/ffffff/5b10x8v9frn.png" width="350" height="175" alt="Map" style="border:0;">
+</p>
+
+
+<h2 align="center">🌍 Global Visitor Map</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Shivam-05&repo=Dev-Shivam-05&theme=dark" />
+  <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dev-Shivam-05.Dev-Shivam-05&format=true" alt="visitors"/>
+  <br>
+  <img src="https://profile-counter.glitch.me/Dev-Shivam-05/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
+<!-- Dynamic Personal Philosophy -->
+<h2 align="center">🌟 Personal Philosophy</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=22&duration=4000&pause=1000&color=8A2387&center=true&vCenter=true&multiline=true&random=true&width=800&height=120&lines=Ship+fast%2C+learn+more+—+push+code%2C+then+soar!;Debug+the+code%2C+not+your+dreams!;Every+error+is+a+step+closer+to+excellence!;Code+with+passion%2C+deploy+with+confidence!;Think+twice%2C+code+once%2C+refactor+forever!" alt="Philosophy" />
+</div>
+
+<div align="center">
+  <blockquote>
+    <h3>🚀 My Developer Mantras</h3>
+    <table>
+      <tr>
+        <td>💡 "Innovation happens at the intersection of curiosity and code"</td>
+      </tr>
+      <tr>
+        <td>🎯 "Focus on progress, not perfection"</td>
+      </tr>
+      <tr>
+        <td>🔥 "Build it, break it, make it better"</td>
+      </tr>
+      <tr>
+        <td>⚡ "Learn in public, fail in private, succeed everywhere"</td>
+      </tr>
+    </table>
+  </blockquote>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6a11cb,2575fc&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=fff" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-6a11cb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/By-Shivam%20Bhadoriya-2575fc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Beast%20Mode%20ON-8A2387?style=for-the-badge" />
+</div>
