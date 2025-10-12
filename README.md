@@ -503,27 +503,65 @@
 
   <!-- Dynamic Coding Challenge -->
   <h2 align="center">🧠 Today's Coding Challenge</h2>
+<div align="center">
 
-  <div align="center">
+<details>
+  <summary><b>🎯 Click to reveal today's challenge!</b></summary>
+  <br />
+  
+  <div id="daily-challenge">
+    **Challenge: Two Sum Problem**  
+    **Date:** October 10, 2024 *(Update this date daily!)*  
+    **Difficulty:** 🟡 Medium  
+    > Given an array of integers `nums` and an integer `target`, return the indices of the **two numbers** that add up to `target`.  
+    > You may assume exactly one solution exists. Return the answer in **any order**.  
+    **Example:**  
+    - Input: `nums = [2,7,11,15]`, `target = 9`  
+    - Output: `[0,1]`  
+    - Explanation: `nums[0] + nums[7] == 9`  
     <details>
-      <summary><b>🎯 Click to reveal today's challenge!</b></summary>
+      <summary><b>💡 Hint (Click to Reveal)</b></summary>
       <br />
-      <div id="daily-challenge">
-        ```javascript // Challenge: Two Sum Problem // Date: ${new
-        Date().toLocaleDateString()} // Difficulty: Medium /\*\* - Given an
-        array of integers nums and an integer target, - return indices of the
-        two numbers that add up to target. - - Example: - Input: nums =
-        [2,7,11,15], target = 9 - Output: [0,1] - Explanation: nums[0] + nums[1]
-        == 9 \*/ function twoSum(nums, target) { // Your solution here const map
-        = new Map(); for (let i = 0; i < nums.length; i++) { const complement =
-        target - nums[i]; if (map.has(complement)) { return
-        [map.get(complement), i]; } map.set(nums[i], i); } return []; } // Test
-        your solution console.log(twoSum([2,7,11,15], 9)); // [0,1] ```
-      </div>
+      Use a hash map to store seen numbers and their indices. For each number, check if its "complement" (target - current) exists in the map.
     </details>
-  </div>
 
-  ---
+    ```javascript
+    /**
+     * @param {number[]} nums
+     * @param {number} target
+     * @return {number[]}
+     */
+    function twoSum(nums, target) {
+      const map = new Map(); // Stores {number: index}
+      
+      for (let i = 0; i < nums.length; i++) {
+        const complement = target - nums[i];
+        
+        if (map.has(complement)) {
+          return [map.get(complement), i]; // Found the pair!
+        }
+        
+        map.set(nums[i], i); // Store current number
+      }
+      
+      return []; // No solution (edge case, per problem assumption)
+    }
+
+    // Test your solution
+    console.log(twoSum([2, 7, 11, 15], 9));     // Expected: [0, 1]
+    console.log(twoSum([3, 2, 4], 6));          // Expected: [1, 2]
+    console.log(twoSum([3, 3], 6));             // Expected: [0, 1]
+    ```
+    
+    **Try It Yourself:** Copy the code into your browser console or a JS editor. What's your time complexity? (O(n) with the map!)  
+    **Next Challenge Teaser:** Tomorrow—something with arrays and sorting... 🔮
+    
+  </div>
+  
+</details>
+
+</div>
+---
 
   <!-- Fixed Visitor Map -->
   <h2 align="center">🌎 Visitor Flags</h2>
@@ -582,7 +620,7 @@
 
   <div align="center">
     <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6a11cb,2575fc&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=fff"
+      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,4,5,40&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=fff"
       width="100%"
     />
   </div>
