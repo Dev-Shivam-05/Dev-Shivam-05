@@ -1,27 +1,30 @@
 name: Generate Snake Animation (Sissa Style)
 on:
   schedule:
-    - cron: '0 0 * * *'   # Daily at midnight UTC → ✅ Auto-update
-  workflow_dispatch:      # Manual trigger → ✅ Great for testing
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}   # ← Ensures we're on correct branch
+          token: ${{ secrets.GITHUB_TOKEN }}  # ← Allows push permission
 
       - name: Generate Sissa-Style Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Dev-Shivam-05
           outputs: |
-            output/github-contribution-grid-snake-sissa.svg           # ← Dark mode version
-            output/github-contribution-grid-snake-sissa-white.svg?palette=github-light  # ← Light mode version
+            output/github-contribution-grid-snake-sissa.svg
+            output/github-contribution-grid-snake-sissa-white.svg?palette=github-light
 
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add output/
-          git commit -m "chore: update sissa snake graph" || exit 0
+          git commit -m "chore: update sissa snake graph" || echo "No changes to commit"
           git push
