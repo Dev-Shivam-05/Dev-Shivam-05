@@ -139,7 +139,7 @@
     </table>
   </div>
 
-  ---
+---
 
   <!-- GitHub Account Stats with Animated Background -->
   <h2 align="center">⚡ GitHub Performance Dashboard</h2>
@@ -166,7 +166,7 @@
     />
   </div>
 
-  ---
+---
 
   <!-- Completely Redesigned Education Section -->
   <h2 align="center">🎓 Education & Skills Journey</h2>
@@ -226,7 +226,7 @@
     </table>
   </div>
 
-  ---
+---
 
   <!-- Animated Technology Stack -->
   <h2 align="center">🛠️ Technology Arsenal</h2>
@@ -350,7 +350,7 @@
     </table>
   </div>
 
-  ---
+---
 
   <!-- Enhanced GitHub Analytics -->
   <h2 align="center">📊 Advanced GitHub Analytics</h2>
@@ -385,7 +385,7 @@
     </div>
   </details>
 
-  ---
+---
 
   <!-- GitHub Trophies with ALL Possible Achievements -->
   <h2 align="center">🏆 GitHub Achievement Showcase</h2>
@@ -417,32 +417,30 @@
     />
   </div>
 
-  ---
+---
 
-  <!-- Snake Animation for Contributions -->
+---
 
-  <!-- Snake Animation for Contributions -->
-  <!-- <h2 align="center">🐍 Contribution Snake</h2>
+<!-- 🐍 Contribution Snake + Developer Avatar -->
+
+<h2 align="center">🐍 Contribution Graph — Sissa Edition</h2>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only">
+    <img
+      alt="GitHub Contribution Snake - Sissa Style"
+      src="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake-sissa.svg"
+      width="90%"
+      style="border-radius: 15px; box-shadow: 0 0 20px rgba(138, 43, 226, 0.6); margin: 20px 0;"
+    />
   </picture>
-</div> -->
+  <br/>
+  <em>“Code. Commit. Conquer. — My journey visualized.”</em>
+</div>
 
-  <!-- <h2 align="center">🐍 Contribution Snake</h2> -->
-
-  <!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/output/github-contribution-grid-snake.svg">
-  </picture>
-</div> -->
-
-  ---
+---
 
   <!-- Enhanced Connect Section -->
   <h2 align="center">🤝 Let's Connect & Collaborate</h2>
@@ -486,11 +484,11 @@
     />
   </div>
 
-  ---
+---
 
   <!-- Enhanced Daily Dev Quote -->
 
-  ## 💬 Daily Dev Quote
+## 💬 Daily Dev Quote
 
   <div align="center">
     <img
@@ -499,7 +497,7 @@
     />
   </div>
 
-  ---
+---
 
   <!-- Dynamic Coding Challenge -->
   <h2 align="center">🧠 Today's Coding Challenge</h2>
@@ -533,17 +531,17 @@
      */
     function twoSum(nums, target) {
       const map = new Map(); // Stores {number: index}
-      
+
       for (let i = 0; i < nums.length; i++) {
         const complement = target - nums[i];
-        
+
         if (map.has(complement)) {
           return [map.get(complement), i]; // Found the pair!
         }
-        
+
         map.set(nums[i], i); // Store current number
       }
-      
+
       return []; // No solution (edge case, per problem assumption)
     }
 
@@ -552,16 +550,15 @@
     console.log(twoSum([3, 2, 4], 6));          // Expected: [1, 2]
     console.log(twoSum([3, 3], 6));             // Expected: [0, 1]
     ```
-    
-    **Try It Yourself:** Copy the code into your browser console or a JS editor. What's your time complexity? (O(n) with the map!)  
+
+    **Try It Yourself:** Copy the code into your browser console or a JS editor. What's your time complexity? (O(n) with the map!)
     **Next Challenge Teaser:** Tomorrow—something with arrays and sorting... 🔮
-    
+
   </div>
   
 </details>
 
-</div>
----
+## </div>
 
   <!-- Fixed Visitor Map -->
   <h2 align="center">🌎 Visitor Flags</h2>
@@ -582,7 +579,7 @@
   <img src="https://mapmyvisitors.com/globe.png?d=1FbgRGVG-ygagcr3pkK77tmfhYWIYfJ4u7GJXQaYPBM" alt="My Visitor Globe" />
 </p> -->
 
-  ---
+---
 
   <!-- Dynamic Personal Philosophy -->
   <h2 align="center">🌟 Personal Philosophy</h2>
@@ -616,7 +613,7 @@
     </blockquote>
   </div>
 
-  ---
+---
 
   <div align="center">
     <img
