@@ -10,8 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          ref: ${{ github.ref }}   # ← Ensures we're on correct branch
-          token: ${{ secrets.GITHUB_TOKEN }}  # ← Allows push permission
+          ref: ${{ github.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Sissa-Style Snake
         uses: Platane/snk@v3
@@ -19,7 +19,7 @@ jobs:
           github_user_name: Dev-Shivam-05
           outputs: |
             output/github-contribution-grid-snake-sissa.svg
-            output/github-contribution-grid-snake-sissa-white.svg?palette=github-light
+            output/github-contribution-grid-snake-sissa-white.svg
 
       - name: Commit and Push
         run: |
