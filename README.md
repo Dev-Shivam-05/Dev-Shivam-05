@@ -421,6 +421,9 @@
 
 ---
 <!-- 🐍 Contribution Snake + Developer Avatar -->
+
+<h2 align="center">🐍 Contribution Graph — Sissa Edition</h2>
+
 <div align="center" style="background: linear-gradient(135deg, #2c3e50, #4a6572); padding: 30px; border-radius: 25px; margin: 20px 0;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/main/output/snake-dark.svg#gh-dark-mode-only">
