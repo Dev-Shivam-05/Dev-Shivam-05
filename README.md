@@ -446,6 +446,7 @@
   <br/>
   <em>“Code. Commit. Conquer. — My journey, my style.”</em>
 </div>
+
 ---
 
   <!-- Enhanced Connect Section -->
