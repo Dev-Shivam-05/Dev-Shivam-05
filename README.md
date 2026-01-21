@@ -420,10 +420,10 @@
   <img src="https://img.shields.io/badge/Pull_Shark-Coming_Soon-8A2387?style=plastic&logo=github&logoColor=white" />
 </p> -->
     <img
-      src="https://img.shields.io/badge/Arctic_Code_Vault_Contributor-2025-6a11cb?style=for-the-badge&logo=github"
+      src="https://img.shields.io/badge/Arctic_Code_Vault_Contributor-2026-6a11cb?style=for-the-badge&logo=github"
     />
     <img
-      src="https://img.shields.io/badge/100_Days_Streak-In_Progress-2575fc?style=for-the-badge&logo=github"
+      src="https://img.shields.io/badge/300_Days_Streak-In_Progress-2575fc?style=for-the-badge&logo=github"
     />
     <img
       src="https://img.shields.io/badge/Pull_Shark-Coming_Soon-8A2387?style=for-the-badge&logo=github"
