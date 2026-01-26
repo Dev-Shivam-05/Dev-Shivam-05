@@ -172,21 +172,35 @@
   <h2 align="center">🎓 Education & Skills Journey</h2>
 
   <div align="center">
-    <table width="100%">
-      <tr>
-        <td width="50%" valign="top">
-          <h3 align="center">📚 Academic Path</h3>
-          <div align="center">
-            <img
-              src="https://img.shields.io/badge/VidhyaDeep_University-6a11cb?style=for-the-badge&logo=graduationcap&logoColor=white"
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">📚 Academic Path</h3>
+        <div align="center">
+          <img
+            src="https://img.shields.io/badge/VidhyaDeep_University-6a11cb?style=for-the-badge&logo=graduationcap&logoColor=white"
+          />
+          <br /><br />
+          <!-- Updated typing effect with all skills -->
+          <img
+            src="https://readme-typing-svg.demolab.com?font=Kalam&weight=800&size=36&duration=3700&pause=400&color=gradient&customColorList=0,4,4,8,30&center=true&vCenter=true&width=800&lines=Git;GitHub;HTML5;CSS3;JavaScript;jQuery;Bootstrap;Tailwind+CSS;Node.js;Express.js;MongoDB;MySQL;C+language;Cpp;Python;Figma;Photoshop;Vercel;Netlify;Visual+Studio+Code;Atom;Vite;PowerShell;NPM(Node+Package+Manager);Bun;Yarn(Yet+Another+Resource+Negotiator);Notion;SVG;Bash;Markdown;TRAE;Qoder;Ejs;Mjs;Render;"
+          />
+          <!-- Updated skill icons with all new skills included and larger size -->
+          <div style="margin: 20px 0; font-size: 1.1em;">
+            <img 
+              src="https://skillicons.dev/icons?i=git,github,html,css,js,jquery,bootstrap,tailwind,nodejs,express,mongodb,mysql,c,cpp,python,figma,ps,vercel,netlify,vscode,atom,vite,powershell,npm,bun,yarn,notion,svg,bash,markdown" 
+              style="height: 58px; margin: 4px;"
             />
-            <br /><br />
-            <img
-              src="https://readme-typing-svg.demolab.com?font=Kalam&weight=800&size=36&duration=3700&pause=400&color=gradient&customColorList=0,4,4,8,30&center=true&vCenter=true&width=800&lines=Git;GitHub;Visual+Studio+Code;HTML5;CSS3;JavaScript(ES6);Bootstrap-5;C+language;C++;Python;MySQL;Figma;Photoshop;Adobe-Illustrator;"
-            />
-            <img
-              src="https://skillicons.dev/icons?i=github,git,vscode,html,css,js,bootstrap,c,cpp,python,mysql,figma,ps,ai"
-            />
+          </div>          
+          <h3 align="center">Additional Skills</h3>
+          <!-- Additional icons not available in skillicons -->
+          <div style="margin: 15px 0;">
+            <img src="https://img.shields.io/badge/TRAE-3a7bd5?style=for-the-badge&logo=visualstudiocode&logoColor=white" style="height: 32px; margin: 3px;" />
+            <img src="https://img.shields.io/badge/Qoder-2c3e50?style=for-the-badge&logo=visualstudiocode&logoColor=white" style="height: 32px; margin: 3px;" />
+            <img src="https://img.shields.io/badge/EJS-4a4a55?style=for-the-badge&logo=ejs&logoColor=white" style="height: 32px; margin: 3px;" />
+            <img src="https://img.shields.io/badge/MJS-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white" style="height: 32px; margin: 3px;" />
+            <img src="https://img.shields.io/badge/Render-46a3b7?style=for-the-badge&logo=render&logoColor=white" style="height: 32px; margin: 3px;" />
+          </div>
             <br /><br />
             <details open>
               <summary><b>🔍 View Detailed Progress</b></summary>
@@ -366,11 +380,11 @@
       src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Shivam-05&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=8A2387&fire=8A2387&currStreakLabel=8A2387"
       alt="Streaks"
     />
-    <img
-      width="49%"
-      src="https://github-contributor-stats.vercel.app/api?username=Dev-Shivam-05&limit=5&combine_all_yearly_contributions=true&hide_border=false&title_color=7c217a&icon_color=7c217a&bg_color=0d1117&text_color=ffffff&border_color=808080&hide_border=true"
-      alt="Top Contributed To Repos"
-    />
+    <!-- Compact stats card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-Shivam-05&show_icons=true&theme=radical" />
+
+<!-- Top languages card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Shivam-05&layout=compact&theme=dark" />
   </div>
 
   <div align="center">x</div>
@@ -391,9 +405,8 @@
   <h2 align="center">🏆 GitHub Achievement Showcase</h2>
 
   <div align="center">
-    <img
-    src="https://github-profile-trophy.vercel.app/?username=Dev-Shivam-05&theme=radical&margin-w=15&margin-h=15&column=4&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues,Repositories,MultiLanguage,Experience""
-    alt="Trophies" />
+  <!-- Alternative Service -->
+<img src="https://github-profile-trophy.vercel.app/?username=Dev-Shivam-05" alt="GitHub Trophies" />
   </div>
   <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dev-Shivam-05&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&row=2&column=4&title=Stars,Commits,Followers,PullRequest,Issues,Repositories,MultiLanguage,Experience" alt="Trophies" />
