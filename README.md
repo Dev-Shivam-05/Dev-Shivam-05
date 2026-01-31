@@ -188,7 +188,11 @@
           <!-- Updated skill icons with all new skills included and larger size -->
           <div style="margin: 20px 0; font-size: 1.1em;">
             <img 
-              src="https://skillicons.dev/icons?i=git,github,html,css,js,jquery,bootstrap,tailwind,nodejs,express,mongodb,mysql,c,cpp,python,figma,ps,vercel,netlify,vscode,atom,vite,powershell,npm,bun,yarn,notion,svg,bash,markdown" 
+              src="https://skillicons.dev/icons?i=git,github,html,css,js,jquery,bootstrap,tailwind,nodejs,express,mongodb,mysql,c,cpp,python,figma,ai,ps,vercel,netlify,vscode,atom,vite,powershell,npm,bun,yarn,notion,svg,bash" 
+              style="height: 58px; margin: 4px;"
+            />
+            <img 
+              src="https://skillicons.dev/icons?i=markdown,ts,replit,ms"
               style="height: 58px; margin: 4px;"
             />
           </div>          
