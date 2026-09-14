@@ -1,7 +1,7 @@
 # Shivam Bhadoriya
 
-AI-native engineer. I write the spec, split it into phases, then review and test what the coding agents build.
-Third-year BSc IT student. Based in Ahmedabad, India. Open to work.
+AI Engineer at Aaziko Global LLP. I write the spec, split it into phases, then review and test what the coding
+agents build. Third-year BSc IT student. Based in Ahmedabad, India. Open to work.
 
 - Portfolio: https://shivam-bhadoriya-dev.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/shivam-bhadoriya-dev/
