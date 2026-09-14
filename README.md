@@ -20,7 +20,7 @@ milliseconds went. TypeScript runs directly on Node 22, with no build step. A re
 data, so it runs without a broker account. MIT.
 
 **[Supreme_Shivam](https://github.com/Dev-Shivam-05/Supreme_Shivam)** — my portfolio: Next.js, MongoDB and a small
-admin CMS. Live at https://shivam-bhadoriya-dev.vercel.app/
+admin CMS. Live at https://shivambhadoriya.com/
 
 ## How I work
 
