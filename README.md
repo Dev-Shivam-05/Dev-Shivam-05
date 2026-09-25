@@ -3,7 +3,7 @@
 AI Engineer at Aaziko Global LLP. I write the spec, split it into phases, then review and test what the coding
 agents build. Third-year BSc IT student. Based in Navsari, Gujarat, India. Open to work.
 
-- Portfolio: https://shivam-bhadoriya-dev.vercel.app/
+- Portfolio: https://shivambhadoriya.com/
 - LinkedIn: https://www.linkedin.com/in/shivam-bhadoriya-dev/
 
 ## What I am building
